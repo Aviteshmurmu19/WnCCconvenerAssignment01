@@ -1,7 +1,7 @@
 <div align=center>
 
 # WnCC Convener Assignment : 1
-<img src='https://badges.strrl.dev/visits//Aviteshmurmu19/FinSearch'></img>
+<img src='https://badges.strrl.dev/visits//Aviteshmurmu19/WnCCconvenerAssignment01'></img>
 <img src='https://img.shields.io/badge/Python-badge?logo=PYTHON&logoColor=yellow&labelColor=grey&color=blue'></img>
 <img src='https://img.shields.io/github/repo-size/Aviteshmurmu19/WnCCconvenerAssignment01'></img>
 ### Web and Coding Club ITC Convener Selection 2023-24
