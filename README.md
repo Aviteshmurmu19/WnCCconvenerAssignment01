@@ -7,19 +7,32 @@
 ### Web and Coding Club ITC Convener Selection 2023-24
 </div>
 
-## Download Original Files :
 <!--
 <a href=""><img src=''></img></a>
 -->
+
+### Assignment 2: Create a social media post titled "In Case You Didn’t Know".
+
 <div align=center>
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide1.JPG'></img></a>
 
-[![Github](https://img.shields.io/badge/Download%20From%20Github-badge?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01)
-[![Dropbox](https://img.shields.io/badge/Download%20From%20Dropbox-badge?style=flat-square&logo=dropbox&logoColor=blue&labelColor=white&color=white)](https://www.dropbox.com/scl/fo/0i62eyuf98cj9m4jozo9s/h?dl=0&rlkey=rrngormldmfyzt7mpmimu7im7)
-[![Mediafire](https://img.shields.io/badge/Download%20From%20Mediafire-badge?style=flat-square&logo=mediafire&logoColor=blue&labelColor=white&color=white)](https://www.mediafire.com/folder/6ewb5xkunm6io/ITC)
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide2.JPG'></img></a>
 
-[dbree.org](https://dbree.org/v/69f12b) |
-[1fichier](https://1fichier.com/?6gxo481mq43cbl946hbn) |
-[FileTransfer.io](https://filetransfer.io/data-package/GjFL7h8u#link) |
-[gofile.io](https://gofile.io/d/oyVfpE)
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide3.JPG'></img></a>
 
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide4.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide5.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide6.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide7.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide8.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide9.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide10.JPG'></img></a>
+
+<a href=""><img src='https://github.com/Aviteshmurmu19/WnCCconvenerAssignment01/blob/main/Question%202/In%20Case%20You%20Didn%E2%80%99t%20Know%20-%20AI%20Music/AI%20Music%20-%20WideScreen/Slide11.JPG'></img></a>
 </div>
